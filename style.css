@@ -141,3 +141,7 @@ gap: 60px;
     margin-top: -365px;
     position: relative;
 }
+
+.gap{
+    padding: 0 20px;
+}
