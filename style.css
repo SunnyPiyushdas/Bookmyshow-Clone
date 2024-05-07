@@ -165,20 +165,23 @@ body{
 
 @media (max-width:899px){
     .logo{
-        width: 25px;
+        width: 20px;
         
-        margin-top: -10px;
+        margin-top: -40px;
         display: flex;
-        margin-left: -30px;
-        height: 25px;
+        margin-left: -80px;
+        height: 20px;
+        
+        
+
     
     }
     
     .search{
-        width: 500px;
+        width:100px;
         border-radius: 6px;
-    padding-bottom: -5px;
-        margin-left: -10px;
+    padding-bottom:-5px;
+        margin-left:-10px;
        
     
     }
@@ -190,7 +193,7 @@ body{
     padding-bottom: 10px;
     padding-top: 10px;
     margin-top: -10px;
-    gap: 60px;
+    gap: 10px;
     
     }
     
@@ -198,9 +201,12 @@ body{
     .sign{
         color: white;
         background-color: red;
-        width: 100px;
-        justify-content: center;
-        align-items: center;
+        width: 50px;
+        text-align: center;
+        padding-left: 1px;
+        padding-right: 1px;
+        margin-right: -50px;
+      
     
     }
     
@@ -216,7 +222,10 @@ body{
     
     .pp{
         color: red;
-        font-size: large;
+        font-size: small;
+        margin-left: -100px;
+        margin-top: 60px;
+
     }
     
     .tt{
