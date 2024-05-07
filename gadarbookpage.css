@@ -124,6 +124,7 @@ body {
 p.text {
   margin: 5px 0;
   position: relative;
+  color: black;
 }
 
 p.text span {
@@ -144,7 +145,7 @@ p.text span {
 }
 
 .pick{
-  color: black;
+  color: White;
   position: relative;
   font-size: medium;
 }
@@ -164,4 +165,5 @@ p.text span {
   gap: 10px;
   margin-left: 10px;
   border-radius: 12px;
+  font-size: x-small;
 }
