@@ -2,6 +2,96 @@ body{
     background-color: black;
 }
 
+
+
+@media (min-width:900px){
+
+    .mm{
+        color: white;
+        
+        padding-bottom: 5px;
+        padding-top: px;
+        font-size: small;
+        
+        padding: 0 20px;
+        margin-bottom: 2px;
+        margin-top: -4px;
+    }
+    
+    .cm{
+        color: white;
+        padding: 0 20px;
+        padding-bottom: -5px;
+        padding-top: -5px;
+        font-size: large;
+        margin-bottom: 2px;
+    }
+    
+    .jawanp{
+        border: 1px solid grey;
+        border-radius: 14px;
+        width:1000px;
+        margin-left:300px;
+        margin-top: -1500px;
+        margin-bottom: 356px;
+    }
+    
+    .trailer{
+        color: white;
+    }
+    
+    .ok{
+        margin-left: 300px;
+        margin-top: -350px;
+        margin-bottom: 200px;
+    
+        
+    }
+    
+    .dsk{
+        border: 1px solid grey;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: white;
+        background-color: black;
+        width: -500px;
+        margin-left: 100px;
+        margin-top: 187px;
+        border-radius: 5px;
+        margin-left: 20px;
+        margin-bottom: -50px;
+        position: relative;
+        
+                 
+    }
+    .bkr{
+        border: 1px solid grey;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+        color: white;
+        background-color: black;
+        margin-bottom: 200px;
+        margin-left: -50px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:899px){
+    
 .mm{
     color: white;
     
@@ -26,10 +116,11 @@ body{
 .jawanp{
     border: 1px solid grey;
     border-radius: 14px;
-    width:1000px;
-    margin-left:300px;
-    margin-top: -1500px;
+    width:250px;
+    margin-left:10px;
+    margin-top: 20px;
     margin-bottom: 356px;
+    
 }
 
 .trailer{
@@ -37,9 +128,10 @@ body{
 }
 
 .ok{
-    margin-left: 300px;
+    margin-left: 5px;
     margin-top: -350px;
     margin-bottom: 200px;
+
     
 }
 
@@ -53,6 +145,23 @@ body{
     background-color: black;
     width: -500px;
     margin-left: 100px;
-    margin-top: 150px;
+    margin-top: 187px;
     border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: -50px;
+    position: relative;
+    
+             
+}
+.bkr{
+    border: 1px solid grey;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+    background-color: black;
+    margin-bottom: 200px;
+    margin-left: -50px;
+}
 }
